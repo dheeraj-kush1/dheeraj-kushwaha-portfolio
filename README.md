@@ -8,8 +8,6 @@ This repository contains the open source version of my portfolio website.
 
 I have modified the GSAP Club plugins with trial plugins, but trial plugins cannot be hosted in production. For Club plugins, check the official installation guide:
 
-https://gsap.com/docs/v3/Installation/
-
 ## Tech Stack
 
 React, TypeScript, GSAP, Three.js, WebGL, HTML, CSS, and JavaScript.
